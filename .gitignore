@@ -1,0 +1,11 @@
+# Audio files
+*.wav
+*.mp3
+data/audio/
+data/metadata/raw_tracks.csv
+data/metadata/tracks.csv
+data/metadata/features.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
